@@ -116,8 +116,6 @@ btnHoldPoints.addEventListener('click', () => {
         zeroingCurrentScore(currentPlayer);
         changePlayer();
     }
-
-    console.log(currentAccountsPlayers);
 })
 
 startNewGame();
